@@ -1,0 +1,13 @@
+{
+    "id": "rememberthemilk",
+    "name": "Remember The Milk",
+    "version": "1.0.0",
+    "description": "rememberthemilk",
+    "main": "index.js",
+    "author": "Vincent Rémond <vincent.remond@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/vincentremond/franz-recipe-rememberthemilk",
+    "config": {
+      "serviceURL": "https://www.rememberthemilk.com/app/"
+    }
+  }
